@@ -1,0 +1,70 @@
+.cv{
+    width: 100%;
+    height: 20%;
+    background-color: cadetblue;
+    text-align: center;
+}
+.photo{
+    width: 100%;
+    height: 20%;
+    background-color: lightblue;
+    text-align: center;
+}
+.information{
+    width: 100%;
+    height: 15%;
+}
+.experiences{
+    width: 100%;
+    height: 15%;
+}
+.formations{
+    width: 100%;
+    height: 15%;
+}
+.centre{
+    width: 100%;
+    height: 15%;
+}
+h2{
+    border-color: darkorange;width: 50em;
+background-color: darkslategray;
+text-align: center;
+}
+.ronde{
+    border-radius: 50%;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: lightblue;
+}
+.r{
+    border-radius: 50%;
+}
+.raja{
+    text-align: center;
+}
+.intéret{
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    text-align: left;
+}
+h1{
+    font-family: fantasy;
+}
+.instagrame{
+    border-radius: 5%;
+    width: 50px;
+    margin-left: 20px;
+
+}
+.facebook{
+    border-radius: 5%;
+    width: 50px ;
+    margin-inline-end: 0px;
+
+}
